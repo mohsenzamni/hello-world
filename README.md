@@ -1,2 +1,4 @@
 # hello-world
-Just the first repository in Github
+Just my first repository in Github
+
+I love #java and ready to learn it. Lets go :)
